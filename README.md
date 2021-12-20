@@ -42,9 +42,7 @@ print(x)
 ```
 
 ## Output:
-Program to find the LU Decomposition of a matrix.
 ![GitHub Logo](2.png)
-Program to find the solution of linear equations using the LU Decomposition.
 ![GitHub Logo](1.png)
 
 
